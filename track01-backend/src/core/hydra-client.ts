@@ -1,27 +1,43 @@
-import neo4j, { type Driver } from "neo4j-driver";
+import neo4j, {
+  type Driver,
+} from "neo4j-driver";
 
-function normalizeValue(value: unknown): any {
-  if (value === null || value === undefined) {
+function normalizeValue(
+  value: unknown,
+): any {
+  if (
+    value === null ||
+    value === undefined
+  ) {
     return value;
   }
-  if (typeof value === "number" && Number.isInteger(value)) {
+
+  if (
+    typeof value === "number" &&
+    Number.isInteger(value)
+  ) {
     return neo4j.int(value);
   }
+
   if (Array.isArray(value)) {
     return value.map(normalizeValue);
   }
+
   if (typeof value === "object") {
-    // Avoid double-wrapping or traversing internal neo4j types (like Integer)
     if (neo4j.isInt(value)) {
       return value;
     }
+
     return Object.fromEntries(
-      Object.entries(value as Record<string, unknown>).map(([k, v]) => [
+      Object.entries(
+        value as Record<string, unknown>,
+      ).map(([k, v]) => [
         k,
         normalizeValue(v),
       ]),
     );
   }
+
   return value;
 }
 
@@ -36,7 +52,8 @@ export class HydraClient {
 
   constructor(
     uri = "bolt://127.0.0.1:7687",
-    token = "local-development-token-32-bytes",
+    token =
+      "local-development-token-32-bytes",
   ) {
     this.driver = neo4j.driver(
       uri,
@@ -51,23 +68,25 @@ export class HydraClient {
     await this.driver.verifyConnectivity();
   }
 
- async run(
-  cypher: string,
-  params: Record<string, unknown> = {},
-) {
-  const session = this.driver.session();
+  async run(
+    cypher: string,
+    params: Record<string, unknown> = {},
+  ) {
+    const session =
+      this.driver.session();
 
-  try {
-    await session.run(
-      cypher,
-      normalizeParams(params),
-    );
+    try {
+      const result =
+        await session.run(
+          cypher,
+          normalizeParams(params),
+        );
 
-    return [];
-  } finally {
-    await session.close();
+      return result.records;
+    } finally {
+      await session.close();
+    }
   }
-}
 
   async close() {
     await this.driver.close();

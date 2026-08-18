@@ -38,5 +38,3 @@ await writer.createEntity(entity);
 console.log(
   "✓ Entity written to HydraDB",
 );
-
-await client.close();

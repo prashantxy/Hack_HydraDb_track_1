@@ -27,3 +27,4 @@ export interface Entity {
 
   metadata: Record<string, unknown>;
 }
+

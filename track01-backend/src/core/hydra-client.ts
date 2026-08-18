@@ -51,23 +51,23 @@ export class HydraClient {
     await this.driver.verifyConnectivity();
   }
 
-  async run(
-    cypher: string,
-    params: Record<string, unknown> = {},
-  ) {
-    const session = this.driver.session();
+ async run(
+  cypher: string,
+  params: Record<string, unknown> = {},
+) {
+  const session = this.driver.session();
 
-    try {
-      const result = await session.run(
-        cypher,
-        normalizeParams(params),
-      );
+  try {
+    await session.run(
+      cypher,
+      normalizeParams(params),
+    );
 
-      return result.records;
-    } finally {
-      await session.close();
-    }
+    return [];
+  } finally {
+    await session.close();
   }
+}
 
   async close() {
     await this.driver.close();

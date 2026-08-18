@@ -1,0 +1,857 @@
+EnterpriseRAG → HydraDB
+------------------------
+✓ HydraDB connectivity
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/tsconfig.json
+SyntaxError: JSON Parse error: Unrecognized token '/'
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:53:25)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/queue-microtask/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/queue-microtask/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver/tsconfig.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver/tsconfig.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/reusify/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/reusify/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/reusify/tsconfig.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/reusify/tsconfig.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/esdoc.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/esdoc.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/tsconfig.build.json
+SyntaxError: JSON Parse error: Unexpected comma at the end of array expression
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:53:25)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/tsconfig.json
+SyntaxError: JSON Parse error: Property name must be a string literal
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:53:25)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/node-addon-api/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/node-addon-api/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/node-addon-api/package-support.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/node-addon-api/package-support.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/base64-js/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/base64-js/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/string_decoder/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/string_decoder/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/tslib/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/tslib/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/picomatch/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/picomatch/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/safe-buffer/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/safe-buffer/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/is-glob/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/is-glob/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/tsx/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/tsx/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/run-parallel/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/run-parallel/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-bolt-connection/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-bolt-connection/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-bolt-connection/tsconfig.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-bolt-connection/tsconfig.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/ieee754/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/ieee754/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/better-sqlite3/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/better-sqlite3/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/bun-types/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/bun-types/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/fill-range/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/fill-range/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/undici-types/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/undici-types/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/is-number/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/is-number/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/tsconfig.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/tsconfig.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/esbuild/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/esbuild/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/to-regex-range/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/to-regex-range/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/fast-glob/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/fast-glob/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/micromatch/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/micromatch/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/is-extglob/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/is-extglob/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/fastq/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/fastq/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/merge2/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/merge2/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/braces/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/braces/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/fsevents/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/fsevents/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/glob-parent/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/glob-parent/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/buffer/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/buffer/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4-mini/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4-mini/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/locales/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/locales/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/mini/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/mini/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v3/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v3/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@types/better-sqlite3/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@types/better-sqlite3/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@types/bun/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@types/bun/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@types/node/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@types/node/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@nodelib/fs.walk/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@nodelib/fs.walk/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@nodelib/fs.scandir/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@nodelib/fs.scandir/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/tslib/modules/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/tslib/modules/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@nodelib/fs.stat/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@nodelib/fs.stat/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/typesMap.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/typesMap.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/webSocket/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/webSocket/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/operators/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/operators/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/testing/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/testing/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/fetch/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/fetch/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/ajax/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/ajax/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.types.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.types.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.types.spec.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.types.spec.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.base.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.base.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.esm5.rollup.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.esm5.rollup.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.cjs.spec.json
+SyntaxError: JSON Parse error: Unrecognized token '/'
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:53:25)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.esm.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.esm.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.cjs.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.cjs.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.esm5.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/rxjs/src/tsconfig.esm5.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/fastq/test/tsconfig.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/fastq/test/tsconfig.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@esbuild/darwin-arm64/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/@esbuild/darwin-arm64/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/data/EnterpriseRAG-Bench-main/generated_data/uuid_index.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/data/EnterpriseRAG-Bench-main/generated_data/uuid_index.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4/mini/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4/mini/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4/classic/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4/classic/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver/spec/support/jasmine.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver/spec/support/jasmine.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4/core/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4/core/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4/locales/package.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/zod/v4/locales/package.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/pl/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/pl/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/cs/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/cs/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/it/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/it/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/ru/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/ru/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/ja/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/ja/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/es/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/es/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/de/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/de/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/fr/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/fr/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/tr/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/tr/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+Failed to load /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/ko/diagnosticMessages.generated.json
+warn: Unable to detect source from path: /Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/typescript/lib/ko/diagnosticMessages.generated.json
+      at detectSource (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:63:13)
+      at normalizeDocument (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/normalizer.ts:94:18)
+      at loadDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/ingestion/document-loader.ts:68:9)
+
+✓ Loaded 100 documents
+
+------------------------
+PREPARED GRAPH DATA
+------------------------
+Documents: 100
+Sources:   4
+Edges:     100
+
+------------------------
+ENSURING SOURCES
+------------------------
+Sources: 4
+✗ Failed checking existing sources
+  Error: OpenCypher query is not supported yet: UNWIND batch supports one-hop relationships only
+  Stack: Neo4jError: OpenCypher query is not supported yet: UNWIND batch supports one-hop relationships only
+
+    at captureStacktrace (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:624:21)
+    at new Result (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:112:23)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:224:29)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:188:27)
+    at run (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/core/hydra-client.ts:61:36)
+    at ensureSources (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:113:35)
+    at main (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:830:9)
+    at processTicksAndRejections (native:7:39)
+  ✓ Source ready: fireflies → 1816540803
+  ✓ Source ready: slack → 1289444206
+  ✓ Source ready: gmail → 56455676
+  ✓ Source ready: github → 559572773
+
+------------------------
+UPSERTING DOCUMENTS
+------------------------
+Documents: 100
+Batch size: 50
+✗ Failed checking existing documents
+  Error: OpenCypher query is not supported yet: UNWIND batch supports one-hop relationships only
+  Stack: Neo4jError: OpenCypher query is not supported yet: UNWIND batch supports one-hop relationships only
+
+    at captureStacktrace (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:624:21)
+    at new Result (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:112:23)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:224:29)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:188:27)
+    at run (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/core/hydra-client.ts:61:36)
+    at upsertDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:216:35)
+    at main (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:839:9)
+    at processTicksAndRejections (native:7:39)
+✗ Failed checking existing documents
+  Error: OpenCypher query is not supported yet: UNWIND batch supports one-hop relationships only
+  Stack: Neo4jError: OpenCypher query is not supported yet: UNWIND batch supports one-hop relationships only
+
+    at captureStacktrace (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:624:21)
+    at new Result (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:112:23)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:224:29)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:188:27)
+    at run (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/core/hydra-client.ts:61:36)
+    at upsertDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:216:35)
+    at async main (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:839:9)
+    at processTicksAndRejections (native:7:39)
+  → Document batch 1/2
+    ✗ Document batch failed (50 rows)
+  Error: internal query execution error
+  Stack: Neo4jError: internal query execution error
+
+    at captureStacktrace (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:624:21)
+    at new Result (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:112:23)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:224:29)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:188:27)
+    at run (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/core/hydra-client.ts:61:36)
+    at upsertDocuments (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:263:20)
+    at async main (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:839:9)
+    at processTicksAndRejections (native:7:39)
+    → Retrying failed batch individually...
+      ✓ fireflies :: dsid_a9d76bcb3bc1475abc9d6f8f83a6eba8
+      ✗ fireflies :: dsid_9ed01291d81947f49500df5fb28ab724
+        internal query execution error
+      ✓ fireflies :: dsid_a94ba3c00ddc4c07bf685acd129b10ba
+      ✓ fireflies :: dsid_e4f5e501290c4fa7b1729064c01d3786
+      ✓ fireflies :: dsid_3c9fe2220c204f13b878bd7d3a168f91
+      ✓ fireflies :: dsid_c3be99dbca144db488c037dd2f0831ef
+      ✓ fireflies :: dsid_6c4c1c875e704f09b4d791d64d7bc7e5
+      ✓ fireflies :: dsid_05faa1ab6427403888a06d7083c7f0a9
+      ✓ fireflies :: dsid_aa97b7293f9f4f3c8180f645e4fe5911
+      ✓ fireflies :: dsid_862bb899faac43feab4f92a12d320e7c
+      ✓ fireflies :: dsid_7d9551aa21124d70b0e247c390d88622
+      ✓ slack :: dsid_234176864048475689c8c2bd0590f1b0
+      ✓ slack :: dsid_95410326ab5f444b968e7b7e87b9b66a
+      ✓ slack :: dsid_0767a662eacd463aaf0935750dba509e
+      ✓ slack :: dsid_46b69066b25944278fc4e04ee9715071
+      ✓ slack :: dsid_b9bc45edda744c5882658d381c41ae3d
+      ✓ slack :: dsid_fb5209e0e305478d8ba56f87f8a8df57
+      ✓ slack :: dsid_207184bb522446f7b7307262d56b6940
+      ✓ slack :: dsid_72b2bd3c2a094fdca6d5f3187a752c24
+      ✓ slack :: dsid_654c69cf4a494bf18586f87beec59707
+      ✓ slack :: dsid_0447408b8e874f2b977d2c9238f32664
+      ✓ slack :: dsid_ec38ae6c5ad44b3ebed35a95341e10d5
+      ✓ slack :: dsid_f4a0661059f34a7fa074ab8ea53126fd
+      ✓ slack :: dsid_d555b86d66ab43a48018e16e0ec90eb0
+      ✓ slack :: dsid_a0e951c043154b07b1b5bd332ac47763
+      ✓ slack :: dsid_e65a5a5e86034a34a53ca975c65f7e7d
+      ✓ slack :: dsid_b0c6f01c69ab4f9b83c67bf977a02ae4
+      ✓ slack :: dsid_6a710200b4ae4cbdb3336bf90b855829
+      ✓ slack :: dsid_218fbdcc10ea4022bc481314ea6e7b03
+      ✓ slack :: dsid_2af487272bb64895ba3c724c808bce40
+      ✓ slack :: dsid_5e0cb5f1e309403ba11c4d17a1f85ebe
+      ✓ slack :: dsid_42c3e2d70229415d82cac2f9b795bf1d
+      ✓ slack :: dsid_1d487c52d79a44c2b40eb19a0db51122
+      ✓ slack :: dsid_87e5cd75fb97443ab381d440e955d870
+      ✓ slack :: dsid_e98b07aad34447bbba5cacf5d899e2d2
+      ✓ slack :: dsid_27bd877a9fb74bcaa4e93871f28f3f4d
+      ✓ slack :: dsid_c7f2177f9b52432a9e7154afd1155824
+      ✓ slack :: dsid_d7c58de570f34a46a6ced3de45ce2540
+      ✓ slack :: dsid_45e2a8ccc16c4c048894f98c6cd8833c
+      ✓ slack :: dsid_d680e052f220485eb985434b56f20ba2
+      ✓ slack :: dsid_20dfb474aecf40b0bd0c8f223df3f55d
+      ✓ slack :: dsid_8b3e10d5732b4497899042e8cb164ac6
+      ✓ slack :: dsid_bf86cdfd170b465f811cb2fe5e9e7650
+      ✓ slack :: dsid_0aebc4d1e7264c6c90136b6b780a0c67
+      ✓ slack :: dsid_ce949270a2dc4c50b6f0174288f606fc
+      ✓ slack :: dsid_29cd5c7c03634a9ea5fbe961534fca0b
+      ✓ slack :: dsid_fa7dba9ea186436281a953c7b376bf11
+      ✓ slack :: dsid_826b680a80e74a1a81273f1dbeb0d3d8
+      ✓ slack :: dsid_3ab4d00190a1485da19d929f9f71bb5a
+      ✓ slack :: dsid_fa2d9f0bda0e4d6b9174ae6b15f7b37e
+  → Document batch 2/2
+    ✓ 50 documents
+
+------------------------
+ENSURING FROM_SOURCE EDGES
+------------------------
+Edges: 100
+✗ Failed checking existing edges
+  Error: OpenCypher query is not supported yet: UNWIND batch requires one fixed relationship type without properties
+  Stack: Neo4jError: OpenCypher query is not supported yet: UNWIND batch requires one fixed relationship type without properties
+
+    at captureStacktrace (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:624:21)
+    at new Result (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:112:23)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:224:29)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:188:27)
+    at run (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/core/hydra-client.ts:61:36)
+    at ensureEdges (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:386:35)
+    at main (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:848:9)
+    at processTicksAndRejections (native:7:39)
+✗ Failed checking existing edges
+  Error: OpenCypher query is not supported yet: UNWIND batch requires one fixed relationship type without properties
+  Stack: Neo4jError: OpenCypher query is not supported yet: UNWIND batch requires one fixed relationship type without properties
+
+    at captureStacktrace (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:624:21)
+    at new Result (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:112:23)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:224:29)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:188:27)
+    at run (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/core/hydra-client.ts:61:36)
+    at ensureEdges (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:386:35)
+    at async main (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:848:9)
+    at processTicksAndRejections (native:7:39)
+✗ Edge batch failed (50 rows)
+  Error: OpenCypher query is not supported yet: MATCH endpoint vertex 537285985 with label Document does not exist
+  Stack: Neo4jError: OpenCypher query is not supported yet: MATCH endpoint vertex 537285985 with label Document does not exist
+
+    at captureStacktrace (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:624:21)
+    at new Result (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/result.js:112:23)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:224:29)
+    at <anonymous> (/Users/prashantdubey/hack-hydra-track1/track01-backend/node_modules/neo4j-driver-core/lib/session.js:188:27)
+    at run (/Users/prashantdubey/hack-hydra-track1/track01-backend/src/core/hydra-client.ts:61:36)
+    at ensureEdges (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:430:20)
+    at async main (/Users/prashantdubey/hack-hydra-track1/track01-backend/scripts/ingest-graph.ts:848:9)
+    at processTicksAndRejections (native:7:39)
+  → Retrying failed edges individually...
+    ✓ Edge 1428438962 → 1816540803
+    ✗ Edge failed: 537285985 → 1816540803
+      OpenCypher query is not supported yet: MATCH endpoint vertex 537285985 with label Document does not exist
+    ✓ Edge 823675779 → 1816540803
+    ✓ Edge 1206989876 → 1816540803
+    ✓ Edge 884175758 → 1816540803
+    ✓ Edge 132213524 → 1816540803
+    ✓ Edge 858761323 → 1816540803
+    ✓ Edge 830857428 → 1816540803
+    ✓ Edge 922502236 → 1816540803
+    ✓ Edge 510083375 → 1816540803
+    ✓ Edge 1657742355 → 1816540803
+    ✓ Edge 1977746513 → 1289444206
+    ✓ Edge 1196620748 → 1289444206
+    ✓ Edge 266339058 → 1289444206
+    ✓ Edge 31021640 → 1289444206
+    ✓ Edge 1952768000 → 1289444206
+    ✓ Edge 1209312257 → 1289444206
+    ✓ Edge 1427949239 → 1289444206
+    ✓ Edge 867962449 → 1289444206
+    ✓ Edge 1647788884 → 1289444206
+    ✓ Edge 432968552 → 1289444206
+    ✓ Edge 1039045239 → 1289444206
+    ✓ Edge 1065965925 → 1289444206
+    ✓ Edge 813164224 → 1289444206
+    ✓ Edge 576038887 → 1289444206
+    ✓ Edge 1520049927 → 1289444206
+    ✓ Edge 1220129495 → 1289444206
+    ✓ Edge 159786783 → 1289444206
+    ✓ Edge 874870971 → 1289444206
+    ✓ Edge 39116660 → 1289444206
+    ✓ Edge 1970424338 → 1289444206
+    ✓ Edge 96116279 → 1289444206
+    ✓ Edge 1562997465 → 1289444206
+    ✓ Edge 529017781 → 1289444206
+    ✓ Edge 14503170 → 1289444206
+    ✓ Edge 1154538835 → 1289444206
+    ✓ Edge 1644107871 → 1289444206
+    ✓ Edge 750095483 → 1289444206
+    ✓ Edge 1189309122 → 1289444206
+    ✓ Edge 1111653009 → 1289444206
+    ✓ Edge 1198762595 → 1289444206
+    ✓ Edge 269912569 → 1289444206
+    ✓ Edge 797639008 → 1289444206
+    ✓ Edge 1811995403 → 1289444206
+    ✓ Edge 1914590348 → 1289444206
+    ✓ Edge 1547411780 → 1289444206
+    ✓ Edge 539864341 → 1289444206
+    ✓ Edge 1942219298 → 1289444206
+    ✓ Edge 1033573027 → 1289444206
+    ✓ Edge 1718474461 → 1289444206
+  ✓ Edge batch: 50
+
+------------------------
+VERIFYING GRAPH
+------------------------
+
+Sample graph records:
+{
+  documentId: 300001,
+  datasetDocUuid: "dsid_test_document_001",
+  source: "fireflies",
+  sourceId: "ff-test-001",
+  title: "Hydra document test",
+  sourceNodeId: 300002,
+  sourceName: null,
+}
+{
+  documentId: 900001,
+  datasetDocUuid: "dsid_test_900001",
+  source: "github",
+  sourceId: "github-test-001",
+  title: "Hydra integer ID test",
+  sourceNodeId: 900002,
+  sourceName: null,
+}
+{
+  documentId: 900001,
+  datasetDocUuid: "dsid_test_900001",
+  source: "github",
+  sourceId: "github-test-001",
+  title: "Hydra integer ID test",
+  sourceNodeId: 900002,
+  sourceName: null,
+}
+{
+  documentId: 900001,
+  datasetDocUuid: "dsid_test_900001",
+  source: "github",
+  sourceId: "github-test-001",
+  title: "Hydra integer ID test",
+  sourceNodeId: 900002,
+  sourceName: null,
+}
+{
+  documentId: 900001,
+  datasetDocUuid: "dsid_test_900001",
+  source: "github",
+  sourceId: "github-test-001",
+  title: "Hydra integer ID test",
+  sourceNodeId: 900002,
+  sourceName: null,
+}
+
+GitHub graph records:
+{
+  id: 182899218,
+  datasetDocUuid: "dsid_8e6afda0b3c34cba9305f96d6eb3d824",
+  title: "OpenAI /v1/chat.completions parity: stop sequences, logprobs, function-calls, and structured-output",
+}
+{
+  id: 195662809,
+  datasetDocUuid: "dsid_f03da56cb8ac462a9556b6ddaf2ef2ba",
+  title: "ServeGraph: incremental rollout graph with rollback simulator and SLA enforcer",
+}
+{
+  id: 216677417,
+  datasetDocUuid: "dsid_5d98ddd1019042c4abd5af68c7ea5427",
+  title: "introduce-route-rollups-and-attribution-indexing-for-observability",
+}
+{
+  id: 219300708,
+  datasetDocUuid: "dsid_fd2d2d152cb44c8c98e1636bc41bcba9",
+  title: "openai-compat-selection-contract-and-deterministic-tool-frames",
+}
+{
+  id: 237690314,
+  datasetDocUuid: "dsid_426ca69578a84dd4af512e5a2782086e",
+  title: "Introduce \"safelock\" fast-path gating + precision toggle and KV-eviction safety for runtime",
+}
+
+------------------------
+INGESTION COMPLETE
+------------------------
+Loaded:            100
+
+Documents inserted: 99
+Documents updated:  0
+Document failures:  1
+
+Sources created:    4
+Sources existing:   0
+Source failures:    4
+
+Edges created:      99
+Edges existing:     0
+Edge failures:      1
+------------------------
